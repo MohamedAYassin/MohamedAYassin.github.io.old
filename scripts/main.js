@@ -23,7 +23,7 @@ app.addEventListener("click", function(event){
 async function open_terminal(){
   createText("Welcome");
   await delay(700);
-  createText("Starting the server...");
+  createText("Starting theششششششششششش server...");
   await delay(1500);
   createText("You can run several commands:");
  
