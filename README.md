@@ -1,11 +1,13 @@
-# Terminal Style Portfolio Page
+# Animated Under Construction Template
 
-Site simulando um terminal feito com Javascript, Html e Css.
-#### https://heberleonard2.github.io/terminal-style-portfolio-page/
+View the demo [here.](https://tmkamal.github.io/under-construction-template/)
+``` 
+Feel free to use this template for your upcoming projects.
+```
+This template has been built using SVG animation with CSS3.
 
-![](https://user-images.githubusercontent.com/51919658/86963051-477f2400-c13a-11ea-9d34-22885d426c10.gif)
+## Preview
 
-#### Sobre o autor
-###### Héber Leonard
-###### heber.leonard2@gmail.com
-###### Idéias? Fala comigo.
+> Actual template is a lot smoother than this.  
+
+![Preview](https://github.com/tmKamal/hosted-images/blob/master/under-construction/Document.gif?raw=true)<br/>  
